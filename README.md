@@ -23,4 +23,4 @@ How to Run:
 
 Author:
 * Chukwuemeka Eugene Obiyo
-* www.linkedin.com/chukwuemekao
+* https://www.linkedin.com/in/chukwuemekao/
