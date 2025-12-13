@@ -34,6 +34,6 @@ The Result: The model's top features shifted to strong sentiment indicators:
 * Positive: "Perfect", "Excellent", "Incredible".
 
 Author:
-Chukwuemeka Eugene Obiyo
-LinkedIn: https://www.linkedin.com/in/chukwuemekao/
-Email: praise609@gmail.com
+- Chukwuemeka Eugene Obiyo
+- LinkedIn: https://www.linkedin.com/in/chukwuemekao/
+- Email: praise609@gmail.com
