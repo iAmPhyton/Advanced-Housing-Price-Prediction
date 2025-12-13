@@ -22,5 +22,6 @@ How to Run:
 3.  Run the notebook: `jupyter notebook ames.ipynb`.
 
 Author:
-* Chukwuemeka Eugene Obiyo
-* https://www.linkedin.com/in/chukwuemekao/
+Chukwuemeka Eugene Obiyo
+LinkedIn: https://www.linkedin.com/in/chukwuemekao/
+Email: praise609@gmail.com
