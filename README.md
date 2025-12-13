@@ -21,6 +21,18 @@ How to Run:
 2.  Install requirements: `pip install pandas seaborn scikit-learn matplotlib`.
 3.  Run the notebook: `jupyter notebook ames.ipynb`.
 
+key Challenges & Solutions:
+- The Problem: Initial visualizations showed that the model was relying on generic nouns like "movie" and "film" as top predictors, which is logically incorrect (both good and bad reviews use these words).
+
+The Solution:
+* Analyzed the `feature_log_prob_` of the Naïve Bayes model.
+* Identified "noise" words common to the movie domain.
+* Extended the standard English stop-word list to include: `['movie', 'film', 'just', 'watch']`.
+
+The Result: The model's top features shifted to strong sentiment indicators:
+* Negative: "Waste", "Worst", "Awful".
+* Positive: "Perfect", "Excellent", "Incredible".
+
 Author:
 Chukwuemeka Eugene Obiyo
 LinkedIn: https://www.linkedin.com/in/chukwuemekao/
